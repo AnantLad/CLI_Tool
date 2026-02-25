@@ -1,0 +1,3 @@
+0|learn prod level systems programming
+1|understand file structure
+1|multiple function or file operations
