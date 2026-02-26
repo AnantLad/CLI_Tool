@@ -113,4 +113,5 @@ void delete_task(int task_number) {
     rename("temp.txt", TASK_FILE);
 
     printf("Task deleted!\n");
+
 }

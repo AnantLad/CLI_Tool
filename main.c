@@ -30,6 +30,7 @@ int main(int argc, char *argv[]) {
         }
         delete_task(atoi(argv[2]));
     }
+    
     else {
         printf("Unknown command\n");
     }
